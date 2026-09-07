@@ -1,7 +1,7 @@
 # 💻 Hello World! I'm ZAQY
 
 <p align="center">
-  <img src="./dance.gif" width="800">
+  <img src="./dance.gif" width="500">
 </p>
 
 <h2>👨‍💻 About Me</h2>
