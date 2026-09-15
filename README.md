@@ -13,11 +13,11 @@
 <h2>📫 Connect With Me</h2>
 <p>
   <a href="https://github.com/kirunnxz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100">
   </a>
-  <a href="https://www.linkedin.com/in/fathi-zaqyaldi-b3b111411/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/fathi-zaqyaldi-b3b111411/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100">
   </a> 
-  <a href="https://www.instagram.com/fthizqy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/fthizqy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="100">
   </a>
 </p>
 
